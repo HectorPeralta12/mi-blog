@@ -10,6 +10,8 @@ theme = 'PaperMod'
   defaultTheme = 'auto'
   showReadingTime = true
   ShowCodeCopyButtons = true
+  showPostCards = true
+  disableSpecial1stPost = true
 
 [menu]
   [[menu.main]]
