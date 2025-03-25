@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My Blog</title>
-    <link>https://tuusuario.github.io/mi-blog/</link>
+    <link>https://hectorperalta12.github.io/mi-blog/</link>
     <description>Recent content on My Blog</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Mar 2025 03:29:27 +0100</lastBuildDate>
-    <atom:link href="https://tuusuario.github.io/mi-blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hectorperalta12.github.io/mi-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://tuusuario.github.io/mi-blog/about/</link>
+      <link>https://hectorperalta12.github.io/mi-blog/about.html</link>
       <pubDate>Tue, 25 Mar 2025 03:29:27 +0100</pubDate>
-      <guid>https://tuusuario.github.io/mi-blog/about/</guid>
+      <guid>https://hectorperalta12.github.io/mi-blog/about.html</guid>
       <description>&lt;p&gt;Hi! 👋&lt;br&gt;
 Welcome to my blog. I&amp;rsquo;m writing about tech, life, and stuff I enjoy. Stay tuned!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>https://tuusuario.github.io/mi-blog/posts/hello-world/</link>
+      <link>https://hectorperalta12.github.io/mi-blog/posts/hello-world.html</link>
       <pubDate>Tue, 25 Mar 2025 03:25:49 +0100</pubDate>
-      <guid>https://tuusuario.github.io/mi-blog/posts/hello-world/</guid>
+      <guid>https://hectorperalta12.github.io/mi-blog/posts/hello-world.html</guid>
       <description>&lt;p&gt;My first Post!&lt;/p&gt;</description>
     </item>
   </channel>
