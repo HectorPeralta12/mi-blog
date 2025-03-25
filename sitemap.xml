@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://tuusuario.github.io/mi-blog/about/</loc>
+    <lastmod>2025-03-25T03:29:27+01:00</lastmod>
+  </url><url>
+    <loc>https://tuusuario.github.io/mi-blog/</loc>
+    <lastmod>2025-03-25T03:29:27+01:00</lastmod>
+  </url><url>
+    <loc>https://tuusuario.github.io/mi-blog/posts/hello-world/</loc>
+    <lastmod>2025-03-25T03:25:49+01:00</lastmod>
+  </url><url>
+    <loc>https://tuusuario.github.io/mi-blog/posts/</loc>
+    <lastmod>2025-03-25T03:25:49+01:00</lastmod>
+  </url><url>
+    <loc>https://tuusuario.github.io/mi-blog/categories/</loc>
+  </url><url>
+    <loc>https://tuusuario.github.io/mi-blog/tags/</loc>
+  </url>
+</urlset>
