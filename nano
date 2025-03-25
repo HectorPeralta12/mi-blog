@@ -1,0 +1,19 @@
+baseURL = 'https://HectorPeralta12.github.io/mi-blog/'
+languageCode = 'en-us'
+defaultContentLanguage = 'en'
+title = 'My Blog'
+theme = 'PaperMod'
+
+[params]
+  author = 'Hector Peralta'
+  defaultTheme = 'auto'
+  showReadingTime = true
+  ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
