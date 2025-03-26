@@ -15,9 +15,9 @@ theme = 'PaperMod'
 
 [params.homeInfoParams]
   Title = "Welcome"
-  Content = "This is my personal blog where I share topics related to programming and cybersecurity. 
+  Content = """This is my personal blog where I share topics related to programming and cybersecurity. 
   I am a university student passionate about technology and continuous learning. 
-  You can learn more about me in the About section."
+  You can learn more about me in the About section."""
 
 [menu]
   [[menu.main]]
